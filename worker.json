@@ -1,0 +1,51 @@
+[
+  { 
+    "id": 0, 
+    "Name": "dan",
+    
+     "LastName": "weill",
+      "PhonerNumber": "0625232",
+       "Address": "aaaaa" ,
+       "Gender": 1 ,
+       "DepartmentType":1,
+          "WorkerType":1
+      }
+      , 
+      { 
+    "id": 1, 
+    "Name": "dan",
+    
+     "LastName": "weill",
+      "PhoneNumber": "0625232",
+       "Address": "aaaaa" ,
+       "Gender": 1 ,
+       "DepartmentType":1,
+          "WorkerTypeId":1
+      },
+      { 
+    "id": 2, 
+    "Name": "adada",
+    
+     "LastName": "weill",
+      "PhoneNumber": "0625232",
+       "Address": "aaaaa" ,
+       "Gender": 1 ,
+       "DepartmentType":1,
+          "WorkerTypeId":1
+      },
+      { 
+    "id": 3, 
+    "Name": "daasdasdn",
+    
+     "LastName": "sdsdsd",
+      "PhoneNumber": "0625232",
+       "Address": "aaaaa" ,
+       "Gender": 1 ,
+       "DepartmentType":1,
+          "WorkerTypeId":1
+      }
+
+
+  ]
+
+
